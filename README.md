@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 🌱 I have a Good Knowledge of JAVA, PHP, Laravel(Backend framework), ReactJS(Frontend javascript library) SQL, CSS, HTML and Javascript.**
+- 🌱 I have a Good Knowledge of JAVASCRIPT, Nodejs, PHP, Laravel, ReactJS, SQL, MONGODB, HTML, CSS.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 

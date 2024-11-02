@@ -6,17 +6,17 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently Working as a Software Engineer  at **[Anudip Foundation](https://www.anudip.org/)**
+- 🔭 I’m currently Working as a Software Engineer  at **[Accenture](https://www.accenture.com/in-en)**
 
-- 🌱 I’m currently learning **Generative AI**
+- 🌱 I’m currently learning **Generative AI**aca
 
-- 🌱 I have a Good Knowledge of JAVASCRIPT, Nodejs, PHP, Laravel, ReactJS, SQL, MONGODB, HTML, CSS.**
+- 🌱 I have a Good Knowledge of JAVASCRIPT, Nodejs, PHP, Laravel, ReactJS, SQL, MONGODB, HTML, CSS, Linux, Operating System, DBMS, Networking ...**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/stubborn-daksh)**
 
-- 📫 How to reach me **dakshkesarwanijasr@gmail.com**
+- 📫 How to reach me **dakshkesarwanijasr@gmail.com** ... 
 
 - ⚡ Fun fact **I play games and love to hang out during the holidays.**
 

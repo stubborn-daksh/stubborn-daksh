@@ -8,17 +8,15 @@
 
 - 🔭 I’m currently Working as a Software Engineer  at **[Accenture](https://www.accenture.com/in-en)**
 
-- 🌱 I’m currently learning **Generative AI**aca
+- 🌱 I’m currently learning **Generative AI**
 
-- 🌱 I have a Good Knowledge of JAVASCRIPT, Nodejs, PHP, Laravel, ReactJS, SQL, MONGODB, HTML, CSS, Linux, Operating System, DBMS, Networking ...**
+- 🌱 I have a Good Knowledge of Javascript, Nodejs, Express.js, ReactJS, SQL, MONGODB, HTML, CSS, Linux, Operating System, DBMS, Networking ...**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/stubborn-daksh)**
 
-- 📫 How to reach me **dakshkesarwanijasr@gmail.com** ... 
-
-- ⚡ Fun fact **I play games and love to hang out during the holidays.**
+- 📫 How to reach me **dakshkesarwanijasra@gmail.com** ... 
 
 ## 🚀 Languages and Tools:
 
@@ -54,8 +52,8 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/stubborn-daksh/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=stubborn-daksh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/stubborn-daksh/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stubborn-daksh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/stubborn-daksh/github-readme-stats"><img alt="Daksh Kesarwani Github Stats" src="https://github-readme-stats.vercel.app/api?username=stubborn-daksh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/stubborn-daksh/github-readme-stats"><img alt="Daksh kesarwani Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stubborn-daksh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
